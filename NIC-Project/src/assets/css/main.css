@@ -1,0 +1,309 @@
+.main-menu.style2 .navigation>li {
+    margin-right: 10px;
+    padding: 10px 5px;
+}
+
+.header-left-style2 .logo {
+    position: relative;
+    display: block;
+    padding: 5px;
+}
+
+.sticky-header .main-menu .navigation> li> a {
+    color: #ffffff;
+    padding: 15px 5px;
+}
+
+.sticky-header .main-menu .navigation> li {
+    padding: 0;
+    margin-right: 10px;
+}
+
+LATEST COURSES SECTION
+====================*/
+
+#mu-latest-courses .mu-latest-courses-area {
+ display: inline;
+ float: left;
+ width: 100%;
+}
+#mu-latest-courses .mu-latest-courses-area .mu-title h2 {
+ color: #fff;
+}
+#mu-latest-courses .mu-latest-courses-area .mu-title p {
+ color: #fff;
+}
+#mu-latest-courses .mu-latest-courses-area .mu-latest-courses-content {
+ display: inline;
+ float: left;
+ margin-top: 50px;
+ width: 100%;
+}
+#mu-latest-courses .mu-latest-courses-area .mu-latest-courses-content .slick-slide {
+ outline: none;
+}
+
+#mu-latest-courses .mu-latest-courses-area .mu-latest-courses-content .slick-dots li button {
+ display: none;
+}
+
+.mu-latest-course-single {
+ background-color: #fff;
+ display: inline;
+ float: left;
+ width: 100%;
+}
+.mu-latest-course-single .mu-latest-course-img {
+ display: inline;
+ float: left;
+ width: 100%;
+}
+.mu-latest-course-single .mu-latest-course-img a {
+ display: block;
+}
+.mu-latest-course-single .mu-latest-course-img a img {
+ width: 100%;
+}
+.mu-latest-course-single .mu-latest-course-img .mu-latest-course-imgcaption {
+ background-color: #f8f8f8;
+ display: inline;
+ float: left;
+ padding: 10px 15px;
+ width: 100%;
+}
+.mu-latest-course-single .mu-latest-course-img .mu-latest-course-imgcaption a {
+ display: inline-block;
+ float: left;
+ -webkit-transition: all 0.5s;
+ -moz-transition: all 0.5s;
+ -ms-transition: all 0.5s;
+ -o-transition: all 0.5s;
+ transition: all 0.5s;
+}
+.mu-latest-course-single .mu-latest-course-img .mu-latest-course-imgcaption span {
+ float: right;
+}
+.mu-latest-course-single .mu-latest-course-img .mu-latest-course-imgcaption span i {
+ margin-right: 5px;
+}
+.mu-latest-course-single .mu-latest-course-single-content {
+ display: inline;
+ float: left;
+ width: 100%;
+ padding: 15px;
+}
+.mu-latest-course-single .mu-latest-course-single-content h4 {
+ color: #333;
+ line-height: 1.4;
+}
+.mu-latest-course-single .mu-latest-course-single-content h4 a {
+ color: #333;
+ -webkit-transition: all 0.5s;
+ -moz-transition: all 0.5s;
+ -ms-transition: all 0.5s;
+ -o-transition: all 0.5s;
+ transition: all 0.5s;
+}
+.mu-latest-course-single .mu-latest-course-single-content p {
+ font-size: 14px;
+ letter-spacing: 0.3px;
+ line-height: 1.7;
+}
+.mu-latest-course-single .mu-latest-course-single-content .mu-latest-course-single-contbottom {
+ border-top: 1px solid #ccc;
+ display: inline;
+ float: left;
+ margin-top: 15px;
+ padding-top: 15px;
+ width: 100%;
+}
+.mu-latest-course-single .mu-latest-course-single-content .mu-latest-course-single-contbottom .mu-course-details {
+ display: inline-block;
+ float: left;
+ -webkit-transition: all 0.5s;
+ -moz-transition: all 0.5s;
+ -ms-transition: all 0.5s;
+ -o-transition: all 0.5s;
+ transition: all 0.5s;
+}
+.mu-latest-course-single .mu-latest-course-single-content .mu-latest-course-single-contbottom .mu-course-details:hover, .mu-latest-course-single .mu-latest-course-single-content .mu-latest-course-single-contbottom .mu-course-details:focus {
+ color: #333;
+}
+.mu-latest-course-single .mu-latest-course-single-content .mu-latest-course-single-contbottom .mu-course-price {
+ display: inline-block;
+ float: right;
+}
+
+.mu-title {
+    display: inline;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.mu-latest-course-single .mu-latest-course-img {
+    display: inline;
+    float: left;
+    width: 100%;
+}
+
+
+.mu-latest-course-single {
+    background-color: #fff;
+    display: inline;
+    float: left;
+    width: 100%;
+}
+
+#services {
+ background:#333 !important;
+ padding-bottom:20px;
+ padding-top:20px;
+
+}
+
+
+.videodiv{
+  padding: 20px;
+}
+
+.mu-title h2{
+  color:#fff;
+}
+.mu-title p {
+  color: #fff;
+  letter-spacing: 0.3px;
+  line-height: 1.7;
+  padding: 0 120px;
+}
+
+.main-slider .slide {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    padding: 141px 0px 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.single-footer-widget .title h3{
+  font-size: 14px;
+}
+.single-footer-widget .footer-contact-info ul li .text h4{
+    font-size: 14px;
+}
+
+.breadcrumb-area {
+    position: relative;
+    background-attachment: scroll;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 59px 0 60px;
+    z-index: 10;
+}
+
+.mu-our-teacher-img img{
+  /* height: 150px; */
+}
+.header-right-style2 {
+
+    width: auto;
+}
+
+.servicebox{
+  text-align: center;
+}
+
+.color1{
+  color:#53437b;
+}
+
+.color2{
+  color:#4095d2;
+}
+
+.color3{
+  color:#ec9c49;
+
+}
+
+.color4{
+  color:#47b883;
+}
+
+.color5{
+  color:#a5c774;
+
+}
+
+.card img{
+  padding: 20px;
+}
+
+.teamlist li span{
+  font-weight: bold;
+  color: #031f4b;
+}
+
+.serviceDiv{
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.innercontent{
+  background-image: url('../img/wave-1.png');
+}
+.leftServ{
+  border-right: 1px solid #dae0eb;
+}
+
+.accordion-section .panel-default > .panel-heading {
+    border: 0;
+    background: #f4f4f4;
+    padding: 0;
+}
+.accordion-section .panel-default .panel-title a {
+    display: block;
+    font-style: italic;
+    font-size: 1.2rem;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.accordion-section .panel-default .panel-title a:after {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-size: 1.2rem;
+    content: "\f106";
+    color: #1f7de2;
+    float: right;
+    padding: 10px;
+    /* margin-top: -12px; */
+}
+.accordion-section .panel-default .panel-title a.collapsed:after {
+    content: "\f107";
+}
+.accordion-section .panel-default .panel-body {
+    font-size: 1.2rem;
+}
+
+.accordion-section .panel-default > .panel-heading:before {
+    content: "?";
+    background: #009bd9;
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: 300;
+    -webkit-clip-path: polygon(85% 0,85% 28%,100% 50%,85% 75%,85% 100%,0 100%,0 0);
+    clip-path: polygon(85% 0,85% 28%,100% 50%,85% 75%,85% 100%,0 100%,0 0);
+    position: absolute;
+    left: 10px;
+    font-weight: bold;
+    z-index: 9;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+textarea {
+    width: 100%;
+}
